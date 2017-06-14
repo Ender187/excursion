@@ -1,0 +1,28 @@
+* {
+  font-family: Verdana;
+  background-color: black;
+  text-align: center;
+}
+.header {
+  font-weight: bold;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+}
+a {
+  color: aquamarine;
+  font-size: 16px;
+}
+.camp p {
+  font-size: 21px;
+  color: gray;
+}
+#text {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+.ex {
+  color: gray;
+  text-align: right;
+}
